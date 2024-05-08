@@ -48,6 +48,7 @@ public class Customer {
 		super();
 		// TODO Auto-generated constructor stub
 	}
+	
 	public Customer(int id, String name, List<Sales> sales) {
 		super();
 		this.id = id;
